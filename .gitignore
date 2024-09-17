@@ -58,8 +58,7 @@ build/
 # Coverage directory used by tools like istanbul
 coverage/
 
-# Minified JavaScript files
-*.min.js
+
 
 # Compiled CSS files
 *.css.map
